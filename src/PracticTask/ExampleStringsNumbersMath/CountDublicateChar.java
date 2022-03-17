@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 Подсчет повторяющихся символов
  **/
 
-public class FindDublicateChar {
+public class CountDublicateChar {
 
     private static Map<Character, Long> countDuplicateChar(String str) {
         Map<Character, Long> res = new HashMap<>();
