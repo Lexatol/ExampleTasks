@@ -1,4 +1,4 @@
-package PracticTask.ExampleStringsNumbersMath;
+package exampleTasks;
 
 import java.util.HashMap;
 import java.util.Map;

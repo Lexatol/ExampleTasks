@@ -1,4 +1,4 @@
-package PracticTask.ExampleStringsNumbersMath;
+package exampleTasks;
 
 /**
  * Инвертирование букв и слов
